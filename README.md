@@ -1,2 +1,0 @@
-# devopspracticerepo
-Devops Repository
